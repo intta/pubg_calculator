@@ -1,1 +1,1 @@
-Simple visualization of PUBG maps in leaflet.
+Simple distance calculator for PUBG maps.
